@@ -47,6 +47,6 @@ Business Intelligence student at Tecnológico de Monterrey Campus Puebla. I am f
 
 ### *Data Skills*
 * Intermediate Excel
-* * Tableau
+* Tableau
 * R
 * Python
