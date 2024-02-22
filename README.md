@@ -1,15 +1,15 @@
 #                                   𝑴𝒂𝒓𝒊𝒂𝒏𝒂 𝑹𝒊𝒄𝒐
 ![image](https://github.com/MarianaManzanoRico/MarianaManzanoRico/blob/main/Images/GitBackground.png)
 
-#### *Acerca de mi*
+### *Acerca de mi*
 Estudiante de Inteligencia de Negocios en el Tecnológico de Monterrey Campus Puebla. Estoy enfocada en mi preparación en Data Science y Artificial Intelligence. Con un firme compromiso de seguir aprendiendo y desarrollarme en el mundo profesional, estoy ansiosa por contribuir con mis habilidades y conocimientos para hacer una diferencia significativa.
 
-#### *Certificaciones*
+### *Certificaciones*
 * Big Data | Santander México | 2024
 * Data Manipulation with dplyr | DataCamp | 2023
 * Introduction to R | DataCamp | 2023
 
-#### *Habilidades*
+### *Habilidades*
 * Data Analytics 
 * Data Science 
 * Toma de decisiones 
@@ -18,7 +18,7 @@ Estudiante de Inteligencia de Negocios en el Tecnológico de Monterrey Campus Pu
 * Comunicación Efectiva 
 * Liderazgo
 
-#### *Data Skills*
+### *Data Skills*
 * Excel Intermedio
 * Tableau
 * R
